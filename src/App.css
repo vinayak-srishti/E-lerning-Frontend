@@ -1,0 +1,156 @@
+.App{
+    background-color: white;
+    color: black;
+}
+.img
+{
+    height: 70px;
+    width: 260px;
+}
+.img1
+{
+    height: 60px;
+}
+.imgelearn
+{
+    height: 50px;
+}
+.elearn 
+{
+    height: 50px;
+    margin-top: 10px;
+}
+.content
+{
+    text-align: justify;
+}
+.con-bg
+{
+    background-color: #1eb2a65a;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+}
+.body-img
+{
+    border-radius: 20px;
+}
+.h6-learn
+{
+    color: #18a7a7;
+}
+.footer
+{
+    background-color: rgba(0, 0, 0, 0.689);
+}
+.copyright
+{
+    color: aliceblue;
+}
+.carousal-margin
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.abc
+{
+    color: aliceblue;
+}
+.carousel-item::before
+{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.764);
+    opacity: 0.8;
+}
+/* .slider-btn
+{
+    border: none;
+    margin-top: -1px;
+    border-radius: 6px;
+    transition: 0.6s;
+}
+.slider-btn:hover
+{
+    border-radius: 100px;
+    box-shadow: 0 0 04px #fff, 0 0 0 8px #1A728E
+} */
+.slider-btn .btn-1
+{
+    background-color: #1eb2a6b1;
+    color: white;
+    margin-right: 20px;
+}
+.slider-btn .btn-2
+{
+    color: rgba(0, 0, 0, 0.748);
+    background-color: rgba(255, 255, 255, 0.248);
+}
+.login 
+{
+    background-color: #1eb2a6b1;
+}
+.btt
+{
+    background-color: #1eb2a6d0;
+    border-radius: 20px;
+    border-color: #1eb2a600;
+    height: 40px;
+}
+/* .btn-tran{
+    background-color: #1eb2a6d0;
+    border-radius: 20px;
+    border-color: #1eb2a600;
+    height: 40px;
+} */
+
+.zoom_effect {
+    transition: .3s;
+  }
+  
+  .zoom_effect:hover {
+    -ms-transform: scale(.5);
+    -webkit-transform: scale(.5);
+    transform: scale(0.9); 
+  }
+.col{
+    color: black;
+}
+.nav_item {
+    color: black;
+}
+.nav .col{
+    color: #1eb2a6;
+}
+.ins-log{
+    text-align: center;
+}
+/* .b{
+    border: none;
+    width: 418px;
+    height: 98px; 
+    font-size: 35px;
+    
+    margin-top: -1px;
+    background-color: #1A728E;
+    padding: 16px 30px;
+    color: #fff;
+    border-radius: 6px;
+    transition: 0.6s;
+} */
+/* .btt:hover{
+    border-radius: 100px;
+    box-shadow: 0 0 0 4px #fff ,
+    0 0 0 8px #1A728E;
+} */
+.is-bg{
+    background-color: #18a7a7;
+}
